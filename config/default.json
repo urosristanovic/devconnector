@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://uros:uros12345@devconnector.xaiel.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://uros:uros12345@devconnector.xaiel.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
