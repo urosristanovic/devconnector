@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://uros:uros12345@devconnector.xaiel.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "a059f3c0e11af8e03fd1",
+  "githubSecret": "ab1c08cc7962fec8b5235931a6f6798c795e1c1a"
 }
